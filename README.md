@@ -23,8 +23,8 @@ This repository contains the research and implementation of my Master's Thesis a
 - **Top Predictors:** Total Assets (Scale), Debt Ratio (Leverage), and the interaction between Interest Rates and Debt.
 
 ## 📂 Repository Structure
-- `notebooks/`: Contains the end-to-end data merging and modeling pipeline.
-- `docs/`: Full Thesis PDF and Defense Presentation slides.
+- End-to-end data merging and modeling pipeline.
+- Full Thesis PDF and Defense Presentation slides.
 
 ## Contact
 **Son Quy DAM** - [LinkedIn](https://linkedin.com/in/damsonquy/) - damsonquy@gmail.com
