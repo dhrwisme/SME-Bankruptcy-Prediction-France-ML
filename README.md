@@ -25,7 +25,6 @@ This repository contains the research and implementation of my Master's Thesis a
 ## 📂 Repository Structure
 - `notebooks/`: Contains the end-to-end data merging and modeling pipeline.
 - `docs/`: Full Thesis PDF and Defense Presentation slides.
-- `src/`: Core Python functions for feature engineering.
 
 ## Contact
 **Son Quy DAM** - [LinkedIn](https://linkedin.com/in/damsonquy/) - damsonquy@gmail.com
