@@ -27,5 +27,5 @@ This repository contains the research and implementation of my Master's Thesis a
 - `docs/`: Full Thesis PDF and Defense Presentation slides.
 - `src/`: Core Python functions for feature engineering.
 
-## 📧 Contact
+## Contact
 **Son Quy DAM** - [LinkedIn](https://linkedin.com/in/damsonquy/) - damsonquy@gmail.com
